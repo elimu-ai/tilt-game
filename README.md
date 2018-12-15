@@ -1,6 +1,6 @@
 #Android Tilt Game
 
-Tilt is an Android adaptation of the classic handheld maze genre. While the concept of the game is the same, the fun lies in the features introduced by the player’s smartphone. This Android Experiment lets players accurately navigate a variety of mazes by utilizing the motion sensors of their Android devices. With multiplayer gameplay supported by a Bluetooth connection, players can make use of an automatic scoring system, leaderboards, and a precise timer for those split second time differences.
+Tilt is an Android adaptation of the classic handheld maze genre. While the concept of the game is the same, the fun lies in the features introduced by the playerâ€™s smartphone. This Android Experiment lets players accurately navigate a variety of mazes by utilizing the motion sensors of their Android devices. With multiplayer gameplay supported by a Bluetooth connection, players can make use of an automatic scoring system, leaderboards, and a precise timer for those split second time differences.
 
 Created as an open source Android experiment, the app showcases the capabilities of Android devices by highlighting the reliability of their Bluetooth connection and the responsive accuracy of their motion sensors.
 
@@ -11,3 +11,5 @@ Code is made available under the MIT license.
 Copyright (c) 2015 MediaMonks
 
 ### **this is an [android experiment](http://androidexperiments.com)**
+
+![screenshot_20181215-184626](https://user-images.githubusercontent.com/15718174/50045405-d5984300-009a-11e9-84b1-8f82b31500c3.png)
