@@ -1,0 +1,141 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+           xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" tools:ignore="MissingTranslation">
+    <string name="app_name">Tilt</string>
+    <string name="action_settings">सेटिंग्स</string>
+
+    <string name="screenname">स्क्रीन नाम</string>
+    <string name="stats_title">Your Tilt Stats</string>
+    <string name="highest_level">सबसे ऊचा स्तर</string>
+    <string name="games_played">खेले गए खेल</string>
+    <string name="home_subtitle">एक Android प्रयोग</string>
+    <string name="home_explanation">जितनी जल्दी हो सके पोर्टल\nमें गेंद को गाइड करें</string>
+    <string name="connection_title">कृपया एक\nकनेक्शन मोड चुनें</string>
+    <string name="connection_search">खोज करने वाले खिलाड़ी&#8230;</string>
+    <string name="ready">तैयार</string>
+    <string name="new_record">नया रिकॉर्ड!</string>
+    <string name="done">किया हुआ!</string>
+    <string name="lose1">Womp,\nwomp.</string>
+    <string name="lose2">बहुत करीब!</string>
+    <string name="lose3">शायद\nअगली बार!</string>
+    <string name="lose4">आह,\nतस्वीर!</string>
+    <string name="lose5">आह,\nबुमराह!</string>
+    <string name="play_again">फिर से चालू करें</string>
+    <string name="to_first_level">पहले स्तर तक?</string>
+    <string name="yay">वाह!</string>
+    <string name="you_won">तुम जीते।</string>
+
+    <!-- Button texts -->
+    <string name="play">प्ले</string>
+    <string name="next">आगामी</string>
+    <string name="skip">छोड़ें</string>
+    <string name="exit">बाहर जाएं</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="restart">पुनः आरंभ करें</string>
+    <string name="multi_player">मल्टी</string>
+    <string name="single_player">एक</string>
+    <string name="wifi">वाई - फाई</string>
+    <string name="bluetooth">ब्लूटूथ</string>
+    <string name="go">चले जाओ</string>
+    <string name="version">संस्करण: <xliff:g example="1.0" id="version">%s</xliff:g></string>
+    <string name="gravity">गुरुत्वाकर्षण</string>
+    <string name="ball_density">गेंद का वजन:
+        <xliff:g example="1.0" id="density">%.2f</xliff:g>
+    </string>
+    <string name="gravity_factor">गुरुत्वाकर्षण:
+        <xliff:g example="1.0" id="gravity">%.2f</xliff:g>
+    </string>
+    <string name="wall_elasticity">दीवार की लोच:
+        <xliff:g example="1.0" id="wall_elasticity">%.2f</xliff:g>
+    </string>
+    <string name="button_calibration">अंशांकन प्रारंभ करें</string>
+    <string name="calibrate">जांच करना</string>
+    <string name="sound_on">पर ध्वनि</string>
+    <string name="sound_off">चिल्लाना</string>
+    <string name="about">के बारे में</string>
+    <string name="licenses">लाइसेंस</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">उपकरणों के लिए स्कैनिंग&#8230;</string>
+    <string name="select_device">कनेक्ट करने के लिए एक उपकरण चुनें</string>
+    <string name="none_paired">कोई भी उपकरण पेयर नहीं किया गया है</string>
+    <string name="none_found">कोई यंत्र नहीं मिले</string>
+    <string name="title_paired_devices">युग्मित उपकरण</string>
+    <string name="title_other_devices">अन्य उपलब्ध उपकरण</string>
+    <string name="button_scan">उपकरणों के लिए स्कैन करें</string>
+
+    <string name="connection_state_connecting">जोड़ने&#8230;</string>
+    <string name="connection_state_connected">से जुड़ा
+        <xliff:g id="device_name">%1$s</xliff:g>
+    </string>
+    <string name="connection_state_disconnected">जुड़े नहीं हैं</string>
+    <string name="connection_state_listening">सुनना&#8230;</string>
+    <string name="select_client_server_title">एक नया खेल शुरू करें,\nया एक मौजूदा खेल में शामिल हों?</string>
+    <string name="start_new_game">मेज़बान</string>
+    <string name="join_existing_game">शामिल हों</string>
+
+    <string name="no_bluetooth_message">इस उपकरण पर कोई भी ब्लूटूथ उपलब्ध नहीं है</string>
+    <string name="no_bluetooth_title">कोई BLUETOOTH नहीं</string>
+    <string name="btn_ok">ठीक</string>
+    <string name="calibration_title">अपने डिवाइस को स्थिर रखें\nअंशांकन करते समय।</string>
+    <string name="calibration_subtitle">सर्वोत्तम परिणामों के लिए अपने उपकरण\nको समतल सतह पर रखें
+    </string>
+    <string name="calibration_countdown">में अंशांकन शुरू करना<xliff:g example="3" id="countdown">
+        %d</xliff:g>\n
+    </string>
+    <string name="calibration_running">कैलिब्रेट&#8230;<xliff:g example="3" id="countdown">
+        %d</xliff:g>\n
+    </string>
+
+    <string name="tutorial_1a">गेंद को पोर्टल में लाने</string>
+    <string name="tutorial_1b">की कोशिश करें</string>
+    <string name="tutorial_2a">गेंद एक दीवार के बिना स्क्रीन</string>
+    <string name="tutorial_2b">किनारों को छोड़ देगी</string>
+    <string name="tutorial_3">जब समय निकल जाता है तो आप हार जाते हैं</string>
+    <string name="your_record">आपका रिकॉर्ड:</string>
+    <string name="waiting_for_players">खिलाड़ियों का इंतजार है&#8230;</string>
+    <string name="tutorial">ट्यूटोरियल</string>
+    <string name="level_name">स्तर
+        <xliff:g example="3" id="levelid">%d</xliff:g>
+    </string>
+    <string name="round_name">गोल
+        <xliff:g example="3" id="levelid">%d</xliff:g>
+    </string>
+    <string name="connection_lost">संपर्क टूट गया</string>
+    <string name="waiting_for_server">सर्वर का इंतजार है&#8230;</string>
+    <string name="waiting_to_start_game">खेल शुरू होने का इंतजार है&#8230;</string>
+    <string name="waiting_for_game_restart">या खेल के फिर से शुरू होने की प्रतीक्षा करें&#8230;</string>
+    <string name="waiting_to_start_round">अगले दौर की प्रतीक्षा&#8230;</string>
+    <string name="result_time">
+        <xliff:g example="1.2" id="time">%.1f</xliff:g>
+    </string>
+    <string name="connect_failed">से कनेक्ट करने में विफल
+        <xliff:g example="Nexus 6" id="device">%s</xliff:g>
+    </string>
+    <string name="waiting_for_other_players">अन्य खिलाड़ियों के खत्म होने का इंतजार है&#8230;</string>
+    <string name="looking_for_host">होस्ट की तलाश में&#8230;</string>
+    <string name="no_host_found">कोई होस्ट नहीं मिला</string>
+    <string name="player_name">खिलाड़ी</string>
+    <string name="round_1">1</string>
+    <string name="round_2">2</string>
+    <string name="round_3">3</string>
+    <string name="retry">पुन: प्रयास करें</string>
+    <string name="server_broadcast_restart">यह उपकरण 120 सेकंड के लिए अन्य उपकरणों द्वारा खोजा जा
+        चुका है।.\n\nएक और 120 सेकंड के लिए विस्तार करने के लिए \"ओके\" पर क्लिक करें।
+    </string>
+    <string name="yes">हाँ</string>
+    <string name="you_win">वाह!\nआप # 1 हैं।</string>
+    <string name="you_lose">तुम हारे।</string>
+    <string name="last">अंतिम</string>
+    <string name="second">दूसरा</string>
+    <string name="third">तीसरा</string>
+    <string name="place">जगह</string>
+    <string name="womp">Womp.</string>
+    <string name="multiplayer_goal1">3 स्तरों खेलते हैं,</string>
+    <string name="multiplayer_goal2">सबसे अच्छा समय जीतता है!</string>
+    <!--<string name="about_body">Tilt is an Android adaptation of the classic handheld maze genre. While the concept of the game is the same, the fun lies in the features introduced by the player’s smartphone. The game lets players accurately navigate a variety of mazes by utilizing the motion sensors of their Android devices. With multiplayer gameplay supported  by a Bluetooth connection, players can make use of an automatic scoring system, leaderboards, and a precise timer for those split second time differences.\n\n-->
+        <!--Created as an open source Android experiment, the app showcases the capabilities of Android devices by highlighting the reliability of their Bluetooth connection and the responsive accuracy of-->
+        <!--their motion sensors.-->
+    <!--</string>-->
+    <string name="no_sensor_found_message">ऐसा लगता है कि आपके डिवाइस में आवश्यक सेंसर नहीं हैं।</string>
+    <string name="no_sensor_found_title">हमे बहोत खेद हो रहा है!</string>
+</resources>
