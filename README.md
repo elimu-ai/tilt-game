@@ -1,4 +1,4 @@
-#Android Tilt Game
+# Android Tilt Game 🕹
 
 Tilt is an Android adaptation of the classic handheld maze genre. While the concept of the game is the same, the fun lies in the features introduced by the player’s smartphone. This Android Experiment lets players accurately navigate a variety of mazes by utilizing the motion sensors of their Android devices. With multiplayer gameplay supported by a Bluetooth connection, players can make use of an automatic scoring system, leaderboards, and a precise timer for those split second time differences.
 
